@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.crayonshinwo.metalcalc",
+      "sha256_cert_fingerprints": [
+        "3F:26:C3:F5:E5:5B:15:0D:AC:91:06:7F:43:C7:1A:DD:CA:B3:AD:7F:C4:01:02:F0:AD:77:1C:9B:8C:FD:B1:DD"
+      ]
+    }
+  }
+]
